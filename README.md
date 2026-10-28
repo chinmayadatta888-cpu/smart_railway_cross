@@ -10,8 +10,9 @@ An Arduino Uno controller for a **scale-model, single-track railway crossing**, 
 - [EAGLE board layout](Case_c.brd) — board design in EAGLE XML format, using Tinkercad component libraries.
 - [Project report](Level_Crossing_Project_Report.docx) — design rationale, hardware, timing, simulation procedure, results, and limitations.
 - [Project presentation](Railway_Crossing_Controller_v3.pptx) — project overview and design summary.
+- [Tinkercad project](https://www.tinkercad.com/things/5PzBmgHxiHD-casec) — shared project link.
 
-The report describes a Tinkercad Circuits simulation, but a Tinkercad share link or circuit export is not included here.
+Open the linked Tinkercad project to view the shared design.
 
 ## How it works
 
